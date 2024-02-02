@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kashish, a second year CS student at the University of British Columbia. I'm interested in web development, front-end, UI/UX design and learning new programming languages! I'm interested in exploring opportunities in Software Engineering, Product Management and Data Science
+I'm Kashish, a second year CS student at the University of British Columbia. I'm interested in web development, front-end, UI/UX design and learning new programming languages! 
 
 
 ## 🌐 Socials:
